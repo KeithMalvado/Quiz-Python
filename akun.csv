@@ -1,0 +1,6 @@
+username,password,peran,status
+bram,bram,admin,terverifikasi
+ipan,ipan,admin,terverifikasi
+admin,admin,admin,belum terverifikasi
+asep,asep,user,terverifikasi
+p,p,admin,belum terverifikasi
